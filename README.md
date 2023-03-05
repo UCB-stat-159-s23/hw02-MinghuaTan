@@ -13,7 +13,7 @@ A Binder-compatible repo with an **environment.yml** file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-###### https://mybinder.org/v2/gh/UCB-stat-159-s23/hw02-MinghuaTan/fea90d1591a4f0a56c391d966f9d5ff6842454d7?urlpath=lab%2Ftree%2FLOSC_Event_tutorial.ipynb
+###### https://mybinder.org/v2/gh/UCB-stat-159-s23/hw02-MinghuaTan/HEAD?labpath=LOSC_Event_tutorial.ipynb
 
 
 ## Notes: Environment Settings
